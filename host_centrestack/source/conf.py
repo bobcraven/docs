@@ -49,8 +49,8 @@ master_doc = 'content'
 
 # General information about the project.
 project = u'Hosted CentreStack Admin Guide'
-copyright = u'2018, Gladinet, Inc.'
-author = u'Gladinet, Inc.'
+copyright = '2020, Storcom, Inc.'
+author = 'Storcom'
 
 # TR Edit
 # The following variables weren't working as a pair as replacements, not sure how to code this, so I've commented them out and directly replaced them below.
