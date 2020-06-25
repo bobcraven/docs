@@ -50,8 +50,8 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Web Portal User Guide'
-copyright = '2019, Corporate Shields, LLC.'
-author = 'Corporate Shields'
+copyright = '2020, Storcom, Inc.'
+author = 'Storcom'
 
 prodname = 'NUBIA Drive'
 
