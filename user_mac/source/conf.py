@@ -51,10 +51,10 @@ master_doc = 'content'
 
 # General information about the project.
 project = 'Mac Client User Guide'
-copyright = '2019, Gladinet Inc'
-author = 'centrestack'
+copyright = '2020, Storcom, Inc.'
+author = 'Storcom'
 
-prodname = 'CentreStack'
+prodname = 'Cloudfilez'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 
